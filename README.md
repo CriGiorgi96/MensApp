@@ -1,6 +1,9 @@
 # MensApp
 MensApp è un'applicazione che mette in contatto chi vuole mangiare e le mense (mensa, cantine universitarie, bar-ristoranti), permettendo di consultare il menù del giorno, ordinare i piatti da ritirare in un giorno e un orario scelti, e alle mense di gestire ordini, sedi e disponibilità in tempo reale.
-## L'app ha due volti, due utenti
+
+NB: L'app è solo una demo quindi __I tuoi dati restano sul tuo dispositivo.__ L'app non usa server né servizi cloud: tutte le informazioni — account, preferenze, allergie e ordini — vengono salvate in un database locale (SQLite) sullo stesso dispositivo su cui usi l'app. Per questo puoi __iscriverti senza problemi__: nessun dato viene inviato su internet, e se disinstalli l'app, i dati vengono eliminati con essa.
+
+## L'app ha due volti, due tipi di utente:
 
 ### 1. Il Cliente
 
